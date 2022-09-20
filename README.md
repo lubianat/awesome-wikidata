@@ -12,7 +12,9 @@ Here are some awesome user scripts on Wikidata:
 * [User:Joern/altLabels.js](https://m.wikidata.org/wiki/User:Joern/altLabels.js) - Shows labels in several languages.
 mw.loader.load( '//www.wikidata.org/w/index.php?title=User:Joern/altLabels.js&action=raw&ctype=text/javascript' ); // [[User:Joern/altLabels.js]]
 
-mw.loader.load( '//www.wikidata.org/w/index.php?title=User:MichaelSchoenitzer/quickpresets.js&action=raw&ctype=text/javascript' ); // [[User:MichaelSchoenitzer/quickpresets.js]]
+*https://www.wikidata.org/wiki/User:Magnus_Manske/author_strings.js
+
+mw.ht//www.wikidata.org/w/index.php?title=User:MichaelSchoenitzer/quickpresets.js&action=raw&ctype=text/javascript' ); // [[User:MichaelSchoenitzer/quickpresets.js]]
 
 mw.loader.load( '//www.wikidata.org/w/index.php?title=User:Vvekbv/recoin_id.js&action=raw&ctype=text/javascript' ); // [[User:Vvekbv/recoin_id.js]]
 
